@@ -287,7 +287,7 @@ sm {
 
 /* Contact Form */
 
-.contact-form label {
+/* .contact-form label {
   color: #999;
 }
 
@@ -388,4 +388,17 @@ sm {
   padding: 15px;
   font-weight: 600;
   margin: 15px 0;
+} */
+
+.img-responsive{
+  width:300px;
+  margin-left: auto;
+  margin-right:120px;
+}
+
+.col-lg-2 img{
+  width:180px;
+  height:300px;
+  border-radius:100px;
+
 }
